@@ -36,6 +36,7 @@ This project fetches historical Indian stock data from the Upstox API, preproces
 ---
 
 ## 🗂 Directory Structure
+```
 indian-stock-forecast-pipeline/
 │
 ├── data/                          # All data files
@@ -59,7 +60,7 @@ indian-stock-forecast-pipeline/
 ├── README.md                      # Project README
 ├── requirements.txt               # Python dependencies
 └── logs/                          # Log files
-
+```
 ---
 
 ## 🚀 Installation
