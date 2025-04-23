@@ -1,4 +1,4 @@
-# 📈 Indian Stock Price Forecasting Pipeline
+# 📈 ForecastFusion
 
 This project is a comprehensive machine learning pipeline for fetching, preprocessing, engineering features, forecasting, and evaluating stock prices for Indian stocks. It leverages the **Upstox API** to fetch historical stock data and processes it through a modular workflow to predict future stock prices using **Random Forest Regression**.
 
